@@ -6,7 +6,7 @@ Welcome! This repository is a shared space for our data science work using the [
 
 ## Project Overview
 
-We are a student team at California State University exploring and analyzing **Solar System object data** from Rubin’s datasets. Our goals include:
+We are a student team at California State University exploring and analyzing **INSERT object data** from Rubin’s datasets. Our goals include:
 
 - TBD
 - TBD
