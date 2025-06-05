@@ -1,0 +1,3 @@
+*.ipynb linguist-language=Python
+
+Add .gitattributes to count notebooks as Python
