@@ -11,6 +11,8 @@ Based on original material by:** Leanne Guy, Melissa Graham
 Last updated: June 6, 2025
 Credit: This simplified guide is derived from the original Rubin Science Platform tutorial by Leanne Guy, created in the context of Rubin DP0.1. It aims to reduce complexity and improve clarity for new learners.\n",
 
+Disclaimer: This guide is a simplified adaptation of the Rubin Science Platform tutorial originally developed by Leanne Guy and Melissa Graham. It preserves much of the original structure and content, with modifications for clarity and beginner accessibility.
+
 This guide introduces the Rubin Science Platform TAP service through:
 - ADQL querying (basic and aggregated)
 - When to use search() vs submit_job()
