@@ -16,10 +16,9 @@ We are a student team at California State University exploring and analyzing **I
 
 ---
 
-## Full-Time Contributors
+## Contributors
 
-- **[McAelan Remigio](https://www.linkedin.com/in/mcaelan/)** [ Data Scientist ]– What we did
-- **[Aadi Bery](https://www.linkedin.com/in/aadi-bery/)** [Computer Scientist ] – What we did
-- **[Tahlia Floor](https://www.linkedin.com/in/tahlia-floor-1002b5248/)** [ Astronomer ] – What we did
-
-## Part-Time Contributors? TBC
+- **[McAelan Remigio](https://www.linkedin.com/in/mcaelan/)** [_Data Scientist_]– What we did
+- **[Aadi Bery](https://www.linkedin.com/in/aadi-bery/)** [_Computer Scientist_] – What we did
+- **[Tahlia Floor](https://www.linkedin.com/in/tahlia-floor-1002b5248/)** [_Astronomer_] – What we did
+- **[Jake De Los Reyes](https://www.linkedin.com/in/jakedelosreyes/)** [_Computer Scientist_] - What we did 

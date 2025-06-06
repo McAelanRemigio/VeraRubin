@@ -1,7 +1,7 @@
 
 ---
 
-### 🐍 `rubin_tap_guide.py`
+### `rubin_tap_guide.py`
 
 ```python
 """
