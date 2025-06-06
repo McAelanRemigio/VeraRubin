@@ -1,4 +1,5 @@
 echo ".ipynb_checkpoints/" >> .gitignore
 git add .gitignore
-git commit -m "Ignore notebook checkpoints"
+git commit -m "Ignore Jupyter checkpoint files"
 git push origin main
+
