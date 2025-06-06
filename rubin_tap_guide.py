@@ -7,6 +7,9 @@
 """
 Rubin TAP + Python Utilities Guide
 Author: McAelan Remigio
+Based on original material by:** Leanne Guy, Melissa Graham
+Last updated:** June 6, 2025
+Credit: This simplified guide is derived from the original Rubin Science Platform tutorial by Leanne Guy, created in the context of Rubin DP0.1. It aims to reduce complexity and improve clarity for new learners.\n",
 
 This guide introduces the Rubin Science Platform TAP service through:
 - ADQL querying (basic and aggregated)
