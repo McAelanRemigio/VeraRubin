@@ -26,5 +26,5 @@ We are a student team at California State University exploring and analyzing **I
 - **[Jake De Los Reyes](https://www.linkedin.com/in/jakedelosreyes/)** [_Computer Scientist_] - What we did 
 
 ## Credits to 2024 Team
-- **Isaiah Kyle Tallod(https://www.linkedin.com/in/isaiah-kyle-tallod/)** [_Astronomer_] Astronomy B.S. SDSU + Physics M.S. SDSU
-- **Mackenzie Talbott(https://www.linkedin.com/in/mackenzie-talbott/)** [_Astronomer_] Astronomy B.S. + Condensed Matter Physics PhD @ Texas Tech
+- **[Isaiah Kyle Tallod](https://www.linkedin.com/in/isaiah-kyle-tallod/)** [_Astronomer_] Astronomy B.S. SDSU + Physics M.S. SDSU
+- **[Mackenzie Talbott](https://www.linkedin.com/in/mackenzie-talbott/)** [_Astronomer_] Astronomy B.S. + Condensed Matter Physics PhD @ Texas Tech
