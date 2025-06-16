@@ -6,7 +6,7 @@ Welcome! This repository is a shared space for our data science work from May 20
 
 ## Project Overview
 
-We are a student team at California State University exploring and analyzing **INSERT object data** from Rubin’s datasets. Our goals include:
+We are a student team at California State University exploring and analyzing **Pulsating Stars** from Rubin’s datasets. Our goals include:
 
 - Identifying variable stars and their types using catalogs and variability statistics
 - Classifying stars using color and periodicity
