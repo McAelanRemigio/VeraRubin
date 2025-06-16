@@ -8,11 +8,11 @@ Welcome! This repository is a shared space for our data science work from May 20
 
 We are a student team at California State University exploring and analyzing **INSERT object data** from Rubin’s datasets. Our goals include:
 
-- TBD
-- TBD
-- TBD
-- TBD
-- TBD
+- Identifying variable stars and their types using catalogs and variability statistics
+- Classifying stars using color and periodicity
+- Measuring periods from light curves
+- Applying P-L relations to estimate distances
+- Mapping star positions in 3D Galactic coordinates (RA/DEC) using Astropy
 
 ---
 
