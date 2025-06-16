@@ -20,11 +20,11 @@ We are a student team at California State University exploring and analyzing **P
 
 - **[McAelan Remigio](https://www.linkedin.com/in/mcaelan/)** [_Data Scientist_] | Data Science & Statistics B.S. SDSU - What we did
 - **[Aadi Bery](https://www.linkedin.com/in/aadi-bery/)** [_Computer Scientist_] | Computer Science B.S. SDSU - What we did
-- **[Tahlia Floor](https://www.linkedin.com/in/tahlia-floor-1002b5248/)** [_Astronomer_] | Astronomy & Astrophysics B.S. SDSU  - What we did
+- **[Tahlia Floor](https://www.linkedin.com/in/tahlia-floor-1002b5248/)** [_Astronomer Programmer_] | Astronomy & Astrophysics B.S. SDSU  - What we did
 
 ## June 2025 - July 2025 Contributor [ Real-Time Data ]
 - **[Jake De Los Reyes](https://www.linkedin.com/in/jakedelosreyes/)** [_Computer Scientist_] | Computer Science B.S. SDSU - What we did 
 
 ## Credits to 2024 Team [ Simulated Data ]
-- **[Isaiah Kyle Tallod](https://www.linkedin.com/in/isaiah-kyle-tallod/)** [_Astronomer/Programmer_] Astronomy B.S. SDSU + Physics M.S. SDSU
-- **[Mackenzie Talbott](https://www.linkedin.com/in/mackenzie-talbott/)** [_Astronomer/Programmer_] Astronomy B.S. + Condensed Matter Physics PhD @ Texas Tech
+- **[Isaiah Kyle Tallod](https://www.linkedin.com/in/isaiah-kyle-tallod/)** [_Astronomer Programmer_] Astronomy B.S. SDSU + Physics M.S. SDSU
+- **[Mackenzie Talbott](https://www.linkedin.com/in/mackenzie-talbott/)** [_Astronomer Programmer_] Astronomy B.S. + Condensed Matter Physics PhD @ Texas Tech
