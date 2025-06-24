@@ -18,7 +18,7 @@ We are a student team at California State University exploring and analyzing **P
 
 ## May 2025 - July 2025 Contributors [ Real-Time Data ]
 
-- **[McAelan Remigio](https://www.linkedin.com/in/mcaelan/)** [_Data Scientist_] | Data Science & Statistics B.S. SDSU - What we did
+- **[McAelan Remigio](https://www.linkedin.com/in/mcaelan/)** [_Data Scientist_] | Data Science & Statistics B.S. SDSU - Github, Guide Developer, Simulated & Real-Time Data, Exploratory Data Analysis (EDA), Candidate Variable Star Detection (CVSD), Feature Engineering & PCA (FE_PCA)
 - **[Aadi Bery](https://www.linkedin.com/in/aadi-bery/)** [_Computer Scientist_] | Computer Science B.S. SDSU - What we did
 - **[Tahlia Floor](https://www.linkedin.com/in/tahlia-floor-1002b5248/)** [_Astronomer Programmer_] | Astronomy & Astrophysics B.S. SDSU  - What we did
 
