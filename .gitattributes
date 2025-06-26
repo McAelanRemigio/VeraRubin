@@ -6,5 +6,3 @@
 
 # ADQL files (Astronomical Data Query Language)
 *.adql linguist-language=SQL
-
-Add .gitattributes to count notebooks as Python
