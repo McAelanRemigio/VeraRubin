@@ -8,7 +8,7 @@ We will calculate variablity statistics across bands over time and select most d
 
 **CVSD Goals**
 
-VD helps us:
+CVSD helps us:
 1) Quantify time-domain variability across multiple metrics
 2) Differentiate true variability from noise or bad signals
 3) Generate a list of most variable stars for further study
