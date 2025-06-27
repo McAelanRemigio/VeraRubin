@@ -1,4 +1,4 @@
-# NSF-DOE Vera C. Rubin Observatory 1st Wave of Astronomy Rubin Science Platform Data Candidate Variable Star ML Classification Model
+# Rubin Observatory: ML-Based Variable Star Classification Wave 1 Data
 ![Logo](logo_for_header.png)
 
 Welcome! This repository is a shared space for our data science work from May 2025 - July 2025 using the [Vera C. Rubin Observatory](https://www.lsst.org/) Rubin Science Platform (RSP). It contains our team's exploratory notebooks, query templates, and beginner-friendly guides for working with LSST data, especially for interdisciplinary researchers and students from non-CS backgrounds.
