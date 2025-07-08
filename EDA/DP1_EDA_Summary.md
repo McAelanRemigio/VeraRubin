@@ -100,7 +100,7 @@ Machine learning classification of variable stars
 ```midPointMjdTai```: Timestamp for light curve plotting
 
 
-**Used for ight curve construction and cleaning, filtering out poor detections, and tracking cadence and gaps**
+**Used for light curve construction and cleaning, filtering out poor detections, and tracking cadence and gaps**
 
 # NOT DIRECTLY RELEVANT COLUMNS
 
