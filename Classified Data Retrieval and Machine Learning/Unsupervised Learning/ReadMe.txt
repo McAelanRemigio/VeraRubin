@@ -1,0 +1,1 @@
+Querying Forced Source on DiaObject catalog to get more accurate data, filtering by observations, applying data normalization, performing PCA, applying unsupervised learning, and creating graphs to visualize findings
