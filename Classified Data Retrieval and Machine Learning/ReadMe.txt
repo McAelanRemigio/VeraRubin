@@ -1,5 +1,5 @@
 This folder includes our entire pipeline from data retrieval to machine learning, which was done through the following folders. Please note that the following is NOT the order that files will be found within this github folder and is instead the chronological order that we created these files in (and a 4th folder for all the CSV files used/created within this section)
-    1. (Folder) Labeled Data Retrieval: Retrieving classified star data (primarily coordinates) and matching them to objects within RSP's DP1 diaObject catalog
+    1. (Folder) Classified Data Retrieval: Retrieving classified star data (primarily coordinates) and matching them to objects within RSP's DP1 diaObject catalog
         a. (Python Notebook) VStarQueries-Literature: Querying data from Bersier & Wood (2001) and test queries from Gaia DR3 within the Fornax Region
             -Required CSVs: None
             -Output CSVs: RRLyrae_Bersier_Wood.csv, Cepheid_Bersier_Wood.csv, LPV_Cand_Bersier_Wood.csv
